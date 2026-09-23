@@ -46,7 +46,8 @@ The following data preparation activities were performed:
   
 <img width="709" height="402" alt="image" src="https://github.com/user-attachments/assets/e185322f-b5e6-4c2a-8caf-9175272f9a00" />
 <img width="706" height="399" alt="image" src="https://github.com/user-attachments/assets/e6ce2d09-444d-4125-b6df-eb1bb7d9f1f3" />
-<img width="712" height="400" alt="image" src="https://github.com/user-attachments/assets/388b33b1-795c-4927-ba39-f0660161dba9" />
+<img width="719" height="400" alt="image" src="https://github.com/user-attachments/assets/42ad8f48-6a01-4bf1-bbcc-581441c71b49" />
+
 
 ## author
 Shilpa Shankar
